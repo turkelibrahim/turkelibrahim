@@ -77,6 +77,10 @@ I build practical software with a focus on **AI agents**, **local LLMs**, and **
 
 > 💡 *These projects are works in progress. Their descriptions reflect the intended scope, not a claim that every feature is already complete.*
 
+<div align="center">
+  <img src="./assets/architecture-flow.svg" alt="End-to-End AI & Backend System Architecture Pipeline" width="100%" />
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 🛠️ Technical Interests
